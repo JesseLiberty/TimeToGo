@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^dotnet --list-sdks; Get-ChildItem E:\\\\AI\\\\\\.NET\\\\TimeToGo$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}
